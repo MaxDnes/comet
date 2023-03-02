@@ -1,0 +1,14 @@
+.about-us .about-content {
+  display: flex;
+}
+.about-us .about-description {
+  margin-bottom: 30px;
+}
+.about-us .about-image {
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  overflow: hidden;
+}
+.about-us .about-image img {
+  width: 100%;
+}/*# sourceMappingURL=about-us.css.map */
